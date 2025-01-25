@@ -24,7 +24,7 @@ public class Actor {
 
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     private Date birthDate;
-
+    
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     private Date deadDate;
 
